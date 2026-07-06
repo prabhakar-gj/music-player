@@ -2,7 +2,7 @@
 
 This is a beautiful and interactive music player built by **Prabhakar G J (Praba)** using HTML, CSS, and JavaScript.
 
-🎧 **Live Website**: https://prabakar-gj.github.io/music-player/
+🎧 **Live Website**: https://prabhakar-gj.github.io/music-player/
 
 ## 📦 Features
 - Play, Pause, Next, Previous
